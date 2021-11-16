@@ -1,0 +1,6 @@
+
+
+display: inline | block | inline-block | flex
+
+display:flex; (apply in parent)
+flex-wrap:
